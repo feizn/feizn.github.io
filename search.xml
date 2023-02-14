@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>hello-world</title>
+    <url>/project/2023/02/11/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+      <categories>
+        <category>技术随笔</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Zelda</title>
-    <url>//feizn.github.io/project/2023/02/11/test/</url>
+    <url>/project/2023/02/11/test/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
       <categories>
@@ -14,7 +26,7 @@
   </entry>
   <entry>
     <title>我的周报1</title>
-    <url>//feizn.github.io/project/2023/02/12/%E6%97%A5%E5%BF%97/</url>
+    <url>/project/2023/02/12/%E6%97%A5%E5%BF%97/</url>
     <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
   <script id="hbeData" type="hbeData" data-hmacdigest="ba183d127f18de5f8e60ac2593ff6772db719b25b606430c9bde68611d830928">4630436162ade97ba2718b7d0c4b3b63cb3a3f659c5ca08b4bca0f58459281861a491c7196f4bbdbc93792d867a81a67936a07e8ec9c7786787432243040d0232d4483409fd15dc9c5ecc6ea55ec029d557bca49aee88148e394311767bb9f4dd0b91c416aa2d8d449c5b8b456be1dcc5eb5a3cc2ca08196e0cc553a38054231f9039ff87c383105c459d6110baf34ed7d39586bb47e2741a8fd24ba773444b049cc3585710d8bd5c69c3cbfd02c9132d52f17cb8b8abb0788813bf41419d22dc744a715d8b34990b0ffad4b782a2e3585e7ce93002a6a6abfb02e825959a56e075023e858300e5eeb40876f83a0b56f293bcbe85b052088c0d8b822fcbfe5489058b4db3971524dca81156209652af5f6e2c67deca4d5ddc0b386a259a9e0c64bb917c14de4c5d380d1b38ab080a04ae6f880c07523b1b779d09656b5250cca37cf0c6978dafd8c2a662cc33d484cf8bf5fbb040193edbd477b16cc39405286fb6c7cae8f35adc80b958f84fe981ba85241a3fbf4485a043dfb4ca588a7f997bf1882a3523937909f727b82426cacd01c10366e3f2ec429d6caca5834cd8d948a0e18ca095f72d90a3baca25797856f1269febb0a24fcffc0a3ccb1b3a2fc8f38b47083dc8c7a97df0f704f26cc2c37f69f0ada6d7c378cd194e25363fff838d2a4b2e48cea86a02dcb33ff51c6156b56a6ed5ce6f08986e3b553f8ed710b8339316955fbcea1d84f2bf1ae44fc96fa19900179b7ca4dc41b00258ec05479e7</script>
   <div class="hbe hbe-content">
@@ -26,25 +38,13 @@
     </div>
   </div>
 </div>
-<script data-pjax src="//feizn.github.io/project/lib/hbe.js"></script><link href="//feizn.github.io/project/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+<script data-pjax src="/project/lib/hbe.js"></script><link href="/project/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
         <category>工作总结</category>
       </categories>
       <tags>
         <tag>周报</tag>
         <tag>工作总结</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hello-world</title>
-    <url>//feizn.github.io/project/2023/02/11/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
-      <categories>
-        <category>技术随笔</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
       </tags>
   </entry>
 </search>
